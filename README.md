@@ -1,2 +1,6 @@
 # Random-Text-Terrain-Generator-Generator
-a simple terrain generator
+g = ground/grass
+s = sand/beach
+r = rocks
+m = mountains
+w = sea/lakes/water
