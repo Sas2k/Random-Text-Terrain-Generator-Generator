@@ -1,4 +1,5 @@
 # Random-Text-Terrain-Generator-Generator
+[![Run on Repl.it](https://repl.it/badge/github/Sas2k/Random-Text-Terrain-Generator-Generator)](https://repl.it/github/Sas2k/Random-Text-Terrain-Generator-Generator) <br>
 g = ground/grass<br>
 s = sand/beach<br>
 r = rocks<br>
